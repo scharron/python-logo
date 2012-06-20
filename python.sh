@@ -1,3 +1,7 @@
+#!/bin/bash
+
+echo
+
 f=3 b=4
 for j in f b; do
   for i in {0..7}; do
@@ -33,3 +37,5 @@ $bld$f4             ${f3}3#mmmmm########c  .j#Z                    $f7 i|i=     
 $bld$f4              ${f3}!S###########Z##q#Z!                     $f7 ||i=                      :|||i||+-                                                                          $rst
 $bld$f4                ${f3}-"??YSX#ZXYY??"~                       $f7   -'                       ---                                                                               $rst
 EOF
+
+echo 
